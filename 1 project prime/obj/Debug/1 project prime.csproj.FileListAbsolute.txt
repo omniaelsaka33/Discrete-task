@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\1 project prime\1 project prime\bin\Debug\1 project prime.exe.config
+C:\Users\user\source\repos\1 project prime\1 project prime\bin\Debug\1 project prime.exe
+C:\Users\user\source\repos\1 project prime\1 project prime\bin\Debug\1 project prime.pdb
+C:\Users\user\source\repos\1 project prime\1 project prime\obj\Debug\1 project prime.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1 project prime\1 project prime\obj\Debug\1 project prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\1 project prime\1 project prime\obj\Debug\1 project prime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1 project prime\1 project prime\obj\Debug\1 project prime.exe
+C:\Users\user\source\repos\1 project prime\1 project prime\obj\Debug\1 project prime.pdb
