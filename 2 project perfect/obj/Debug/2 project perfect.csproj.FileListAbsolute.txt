@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\2 project perfect\2 project perfect\bin\Debug\2 project perfect.exe.config
+C:\Users\user\source\repos\2 project perfect\2 project perfect\bin\Debug\2 project perfect.exe
+C:\Users\user\source\repos\2 project perfect\2 project perfect\bin\Debug\2 project perfect.pdb
+C:\Users\user\source\repos\2 project perfect\2 project perfect\obj\Debug\2 project perfect.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\2 project perfect\2 project perfect\obj\Debug\2 project perfect.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\2 project perfect\2 project perfect\obj\Debug\2 project perfect.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2 project perfect\2 project perfect\obj\Debug\2 project perfect.exe
+C:\Users\user\source\repos\2 project perfect\2 project perfect\obj\Debug\2 project perfect.pdb
